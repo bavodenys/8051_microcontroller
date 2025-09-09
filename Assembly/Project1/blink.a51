@@ -1,4 +1,4 @@
-; blink.asm - 8051 LED blink for SDCC / sdas8051
+; blink.a51 - 8051 LED blink for SDCC / sdas8051
 ; Toggle P1.0 LED with delay
 
 ; Define SFRs and bits
