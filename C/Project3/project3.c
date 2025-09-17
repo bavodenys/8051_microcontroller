@@ -1,5 +1,7 @@
 #include <stdint.h>
 
+// Remove the jumper J3
+
 __sfr __at (0x80) P0;  // Segment lines (a–g, DP)
 __sfr __at (0xA0) P2;  // T1–T4 digit select lines
 
